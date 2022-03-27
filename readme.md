@@ -6,8 +6,8 @@ In this project certain features are build
 
 Steps to do:
 
-1. Need to integrate both node js and react js.
-2. Used node js for backend part, react js for frontend part, sqlite for database.
+1. Integration of Backend and Frontend Code
+2. Used Node js for backend part, react js for frontend part, sqlite for database.
 3. Start the server in backend part in one port and server of frontend on another part.
 
 Username and Password:
